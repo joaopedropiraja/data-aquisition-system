@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/data-aquisition-system/src/main.cpp
+cstdlib
+-
+iostream
+-
+memory
+-
+utility
+-
+boost/asio.hpp
+-
+unordered_map
+-
+mutex
+-
+regex
+-
+ctime
+-
+fstream
+-
+iomanip
+-
+sstream
+-
+filesystem
+-
+vector
+-
+

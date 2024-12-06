@@ -1,0 +1,3 @@
+/workspaces/data-aquisition-system/CMakeFiles/rebuild_cache.dir
+/workspaces/data-aquisition-system/CMakeFiles/edit_cache.dir
+/workspaces/data-aquisition-system/CMakeFiles/das.dir
